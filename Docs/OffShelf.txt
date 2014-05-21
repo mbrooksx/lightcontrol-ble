@@ -1,0 +1,4 @@
+The reccomended off-shelf implementation involves:
+
+1x Etekcity RF Light Switch
+1x CC2541-MiniDK
