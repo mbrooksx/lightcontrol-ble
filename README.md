@@ -10,6 +10,4 @@ This project will contain:
 	* Reccomended implementation with off-shelf boards
 	* Design files for custom board
 
-Currently, it is empty due to licensing questions on the FW
-side of things. Be on the lookout for more!
 
